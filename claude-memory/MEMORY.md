@@ -1,0 +1,2 @@
+- [Full explanations, Hungarian](feedback_full_explanations.md) — user wants complete explanations, no hints; no final solution code unless asked
+- [Security agent idea](project_security_agent_idea.md) — vulnerability guide started early as repo's SECURITY_AGENT_FOUNDATIONS.md (2026-10-08); open questions for the user still inside
